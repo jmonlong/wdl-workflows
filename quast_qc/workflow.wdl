@@ -1,6 +1,6 @@
 version 1.0
 
-workflow quast {
+workflow quast_qc {
     meta {
 	    author: "Jean Monlong"
         email: "jmonlong@ucsc.edu"
