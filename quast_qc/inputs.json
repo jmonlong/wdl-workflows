@@ -1,5 +1,5 @@
 {
-  "quast.AMB_FA": ["../chimera_stats/ref.fa.gz", "../chimera_stats/ref.fa.gz"],
-  "quast.REF_FA": "../chimera_stats/ref.fa.gz"
+  "quast_qc.AMB_FA": ["../chimera_stats/ref.fa.gz", "../chimera_stats/ref.fa.gz"],
+  "quast_qc.REF_FA": "../chimera_stats/ref.fa.gz"
 }
 
